@@ -1,4 +1,3 @@
-
 # Lab 6 – Streaming Language Modeling with Poem Sentiment and GPT-Neo
 
 This lab implements a **streaming language modeling pipeline** using the
